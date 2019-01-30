@@ -102,8 +102,6 @@
     "node-sass-importer": "1.0.0",
     "ol": "5.3.0",
     "ol-cesium": "2.6.0",
-    "phantomjs-polyfill-string-includes": "1.0.0",
-    "phantomjs-prebuilt": "2.1.16",
     "popper.js": "1.14.6",
     "proj4": "2.5.0",
     "raven-js": "3.27.0",
