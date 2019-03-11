@@ -397,7 +397,7 @@ class SassPlugin {
   }
 
   apply(compiler) {
-    // compiler.hooks.emit.taplAsync('SassPlugin', async (compilation, callback) => {
+    //compiler.hooks.emit.taplAsync('SassPlugin', async (compilation, callback) => {
     compiler.plugin('emit', async (compilation, callback) => {
       const chunksFiles = {};
       for (const chunk of compilation.chunks) {
